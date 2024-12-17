@@ -370,5 +370,5 @@ Rezultat:
 
 Tukaj je prikaz delovanja knjižnice v moji aplikaciji.
 
-![Screen_recording_20241217_161338.gif](source/Screen_recording_20241217_161338.gif)
+<img src="source/Screen_recording_20241217_161338.gif" width="500" alt="Screen recording">
 
