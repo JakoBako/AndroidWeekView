@@ -370,8 +370,5 @@ Rezultat:
 
 Tukaj je prikaz delovanja knjižnice v moji aplikaciji.
 
-<video width="320" height="240" controls>
-  <source src="source/Screen_recording_20241217_161338.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+![Screen_recording_20241217_161338.gif](source/Screen_recording_20241217_161338.gif)
 
