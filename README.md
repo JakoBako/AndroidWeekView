@@ -19,7 +19,7 @@ To knjižnico sem izbral, ker sem v svojem projektu potreboval knjižnico, ki le
 
 ## Omejitve ❌
 
-- Slaba dokumentacija, saj wiki, ki je na voljo, ne deluje.
+- Slaba dokumentacija, saj koda, ki je na wiki ne deluje pravilno.
 - Je malo outdated, saj je zadnji commit bil 18. Maj, 2022. In ustvarjalec je naredil na githubu samo 3 commite v zadnjem letu.
 - Nekatere funkcionalnosti moraš pogledat v change logu, saj na wiki niso posodobljene.
 
